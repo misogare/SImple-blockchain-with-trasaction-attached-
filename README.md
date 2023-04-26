@@ -1,9 +1,8 @@
 # Python Blockchain with Transaction Project
 
-*** This Python project implements a simple blockchain that allows users to attach transactions to blocks. 
+***This Python project implements a simple blockchain that allows users to attach transactions to blocks. 
 The blockchain consists of a series of blocks, with each block containing a hash of the previous block and a transaction. 
-The initial version of the project contains 10 pre-made hashes of blocks in the chain.
-***
+The initial version of the project contains 10 pre-made hashes of blocks in the chain.***
 
 ## Usage
 To run the project, you need to have Python installed on your system. Clone the project repository and navigate to the root directory in your terminal or command prompt. Then, run the following command:
